@@ -6,8 +6,8 @@
 
 - 🔐 Secure local password storage (encrypted)
 - 🧠 Master password authentication
-- 🧱 Strong encryption (AES-256 / ChaCha20 planned)
-- 📁 File-based password database (custom format or JSON)
+- 🧱 Strong encryption (AES-256)
+- 📁 File-based password database (JSON)
 - 📟 Minimal, intuitive CLI interface (TUI with ncurses planned)
 - 🛠️ Written entirely in C for speed and portability
 
